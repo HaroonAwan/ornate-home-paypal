@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "posto-home",
+    "y": "ornatehome-c0148",
+    "n": "ornatehome-c0148",
+    "ornate": "ornatehome-c0148",
+    "dist": "ornatehome-c0148"
+  },
+  "targets": {},
+  "etags": {}
+}
